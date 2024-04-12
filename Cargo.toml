@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT"
 readme = "README.md"
 authors = ["Violet Iapalucci"]
+description = "A template for implementing darling."
 
 [dependencies]
 anyhow = "1.0.82"
